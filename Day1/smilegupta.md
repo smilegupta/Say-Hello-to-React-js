@@ -1,2 +1,3 @@
-### CodePen Links:
-#### [Setting up my basic react app in codepen](https://codepen.io/smilegupta/pen/WNxGQdx)
+### Name: Smile Gupta
+#### CodePen Links:
+##### [Setting up my basic react app in codepen](https://codepen.io/smilegupta/pen/WNxGQdx)
