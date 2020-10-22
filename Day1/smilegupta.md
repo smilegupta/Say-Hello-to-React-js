@@ -4,7 +4,7 @@
 
 #### Summary of all the learnings
 
-##### Task1: Setting up my basic react app in [codepen](https://codepen.io/smilegupta/pen/WNxGQdx)
+##### Task 1: Setting up my basic react app in [codepen](https://codepen.io/smilegupta/pen/WNxGQdx)
 
 
 ###### Feedback (Optional):
