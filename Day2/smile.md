@@ -1,7 +1,7 @@
 #### Name: Smile Gupta
 ##### Date: 23 October 2020
-##### Concepts Learnt: Basics of React, JSX and Event Handling
-
+##### Concepts Learnt: 
+Concepts of State and Props and setting up my own react app using CLI and knowling about functional component and class compoentn and aking a project
 #### Summary of all the learnings
 
 ##### Task 1: Basic Event Handling 2 [codepen](https://codepen.io/smilegupta/pen/RwRoGYa)
