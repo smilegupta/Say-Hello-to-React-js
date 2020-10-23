@@ -25,9 +25,9 @@ I here follow an mechanism of learn by practising and making lots of projects an
       - Running Notes [:computer:](https://del.dog/react-day2.txt)
       
       
- ### Want me to check your learning and clear your doubts or review code?
+ ## Want me to check your learning and clear your doubts or review code?
  
- ### Follow the steps below to get started right away!
+ #### Follow the steps below to get started right away!
 
 - **Fork this repo**: You'll see a Fork button on the top right against the name of this repository. This creates an identical copy of this repository and adds it to your repositories.
 
