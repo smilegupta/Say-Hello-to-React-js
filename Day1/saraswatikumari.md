@@ -9,23 +9,17 @@ At any time of the development we use JS at one time or the other. JS is one of 
 We also learnt how JS uses render to display any kind of input. We learnt about JSX(more like Javascript for React). 
 We also learnt to use Codepen where without installing we could experiment basic React apps.We implemented Simple Render, Conditional Render and also learnt how JS does the event handling stuffs(we used for the event - button click).  
 
-##### Task 1: Setting up my basic react app in [codepen]
-https://codepen.io/saraswati-kumari/pen/yLJVqZg
+##### Task 1: Setting up my basic react app in [codepen](https://codepen.io/saraswati-kumari/pen/yLJVqZg)
 
-##### Task 2: Simple Render in [codepen]
-https://codepen.io/saraswati-kumari/pen/Pozbdrp
+##### Task 2: Simple Render in [codepen](https://codepen.io/saraswati-kumari/pen/Pozbdrp)
 
-##### Task 3: Render with templating in [codepen]
-https://codepen.io/saraswati-kumari/pen/WNxogoR
+##### Task 3: Render with templating in [codepen](https://codepen.io/saraswati-kumari/pen/WNxogoR)
 
-##### Task 4: Using functions while templating in [codepen]
-https://codepen.io/saraswati-kumari/pen/QWEGVGp
+##### Task 4: Using functions while templating in [codepen](https://codepen.io/saraswati-kumari/pen/QWEGVGp)
 
-##### Task 5: Conditional rendering and Styling in [codepen]
-https://codepen.io/saraswati-kumari/pen/KKMNxEo
+##### Task 5: Conditional rendering and Styling in [codepen](https://codepen.io/saraswati-kumari/pen/KKMNxEo)
 
-##### Task 6: Event Handling in [codepen]
-https://codepen.io/saraswati-kumari/pen/jOrVeYQ
+##### Task 6: Event Handling in [codepen](https://codepen.io/saraswati-kumari/pen/jOrVeYQ)
 
 ###### Feedback (Optional):
 
