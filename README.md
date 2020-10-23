@@ -21,7 +21,7 @@ I here follow an mechanism of learn by practising and making lots of projects an
   - Day2
       - Topics Covered: 
       - Powerpoint presentation [:floppy_disk:]()
-      - Video Stream of the session [:movie_camera:]()
+      - Video Stream of the session [:movie_camera:](https://www.youtube.com/watch?v=TKy1NQtb5UY)
       - Running Notes [:computer:](https://del.dog/react-day2.txt)
       
       
