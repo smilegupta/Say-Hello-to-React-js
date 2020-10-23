@@ -19,8 +19,8 @@ I here follow an mechanism of learn by practising and making lots of projects an
       - Running Notes [:computer:](https://del.dog/react-day1.txt)
       
   - Day2
-      - Topics Covered: 
-      - Powerpoint presentation [:floppy_disk:]()
+      - Topics Covered: Creating Basic React App and State and Props and Components
+      - Powerpoint presentation [:floppy_disk:](https://www.slideshare.net/SmileGupta/say-hello-to-react-day2-presentation)
       - Video Stream of the session [:movie_camera:](https://www.youtube.com/watch?v=TKy1NQtb5UY)
       - Running Notes [:computer:](https://del.dog/react-day2.txt)
       
