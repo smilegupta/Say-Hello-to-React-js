@@ -24,7 +24,7 @@ https://codepen.io/saraswati-kumari/pen/QWEGVGp
 ##### Task 5: Conditional rendering and Styling in [codepen]
 https://codepen.io/saraswati-kumari/pen/KKMNxEo
 
-##### Task 4: Event Handling in [codepen]
+##### Task 6: Event Handling in [codepen]
 https://codepen.io/saraswati-kumari/pen/jOrVeYQ
 
 ###### Feedback (Optional):
