@@ -1,13 +1,13 @@
-#### Name: Sanjana
+#### Name: Smile Gupta
 ##### Date: 22 October 2020
 ##### Concepts Learnt: Basics of React and JSX
 
 #### Summary of all the learnings
 
-##### Task 1: Setting up my basic react app in [codepen](https://codepen.io/Sanjana001/pen/zYBoLeP), (https://codepen.io/Sanjana001/pen/RwRoqNM)
+##### Task 1: Setting up my basic react app in [codepen] (https://codepen.io/smilegupta/pen/WNxGQdx)
 
 
-###### Feedback (Optional): The webinar is very good. I'm pretty much excited for my tomorrow's webinar.
+###### Feedback (Optional):
 
 
-###### Any Questions (Optional): Can we return list using react?
+###### Any Questions (Optional):
