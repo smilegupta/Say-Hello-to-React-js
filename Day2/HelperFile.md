@@ -1,5 +1,5 @@
 **Code for making Sun**
-
+```
  <Sun
           xmlns="http://www.w3.org/2000/svg"
           width="48"
@@ -22,9 +22,9 @@
           <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
           <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
  </Sun>
- 
+ ```
 **Code for making moon**
- 
+``` 
   <Moon
           xmlns="http://www.w3.org/2000/svg"
           width="48"
@@ -39,3 +39,4 @@
         >
           <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
  </Moon>
+```
