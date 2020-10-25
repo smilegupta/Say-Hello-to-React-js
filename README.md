@@ -28,6 +28,11 @@ I here follow an mechanism of learn by practising and making lots of projects an
      - Topic Covered: Creeating a React Toggle Switch (using useEffect and useState) and Styled Component and Deployment using vercel
      - Video Stream of the session [:movie_camera:](https://youtu.be/E9gzlhKnxjI)
      - Source Code [:computer:](https://github.com/smilegupta/Dark-Light-mode)
+     
+   - Day4
+     - Topic Covered: 
+     - Video Stream of the session [:movie_camera:](https://youtu.be/b4LAoKTtlRM)
+     - Source Code [:computer:](https://github.com/smilegupta/useState-useEffect-axios)
       
       
  ## Want me to check your learning and clear your doubts or review code?
