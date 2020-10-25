@@ -30,7 +30,7 @@ I here follow an mechanism of learn by practising and making lots of projects an
      - Source Code [:computer:](https://github.com/smilegupta/Dark-Light-mode)
      
    - Day4
-     - Topic Covered: 
+     - Topic Covered: useState, useEffect, Axios 
      - Video Stream of the session [:movie_camera:](https://youtu.be/b4LAoKTtlRM)
      - Source Code [:computer:](https://github.com/smilegupta/useState-useEffect-axios)
       
