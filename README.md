@@ -33,6 +33,21 @@ I here follow an mechanism of learn by practising and making lots of projects an
      - Topic Covered: useState, useEffect, Axios 
      - Video Stream of the session [:movie_camera:](https://youtu.be/b4LAoKTtlRM)
      - Source Code [:computer:](https://github.com/smilegupta/useState-useEffect-axios)
+     
+  - Day5
+     - Topic Covered: Application of useState, useEffect, Axios and Basic Routing
+     - Video Stream of the session [:movie_camera:](https://www.youtube.com/watch?v=Wp2zO-GkP0s)
+     - Source Code [:computer:](https://github.com/smilegupta/breaking-bad)
+     
+   - Day6
+     - Topic Covered: React in Daily Life
+     - Video Stream of the session [:movie_camera:](https://www.youtube.com/watch?v=dMp-bGK9wUY)
+     - Source Code [:computer:](https://github.com/smilegupta/react-in-real-life)
+     
+   - Day7
+     - Topic Covered: Password Strength Validator
+     - Video Stream of the session [:movie_camera:](https://www.youtube.com/watch?v=PSx48yehCZ4)
+     - Source Code [:computer:](https://github.com/smilegupta/password-strength-validator)
       
       
  ## Want me to check your learning and clear your doubts or review code?
