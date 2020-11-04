@@ -5,6 +5,8 @@
 Say Hello to Reactjs is an initiative that aims to help people upskill in React and Kickstart Their Journey as Frontend Devs
 I here follow an mechanism of learn by practising and making lots of projects and codepens and taking one on one doubts.
 
+###### Content Courtesy Smile Gupta
+
 ## Prerequisite
  - Basic Understanding of HTML and CSS :computer:
  - Some knowledge oj any programming language preferably JavaScript :baby_chick:
